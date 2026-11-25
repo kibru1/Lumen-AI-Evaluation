@@ -1,0 +1,12 @@
+[
+  {
+    "eval_id": "E02",
+    "topic": "Pricing",
+    "lead_channel": "Email",
+    "lead_message": "Is there an intro offer?",
+    "response": "Hi! At Lumen Austin South Congress, our unlimited membership is $149 per month. If you're a first-time visitor (18+), you can also start with a free trial class, and new members can get a $99 intro month if purchased within 7 days of the trial. Would you like to set up a free trial?",
+    "status": "success",
+    "model": "gemini-4-hydrogen",
+    "completed_utc": "2026-11-25T20:25:41.118518+00:00"
+  }
+]
